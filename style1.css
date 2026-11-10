@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(164, 210, 253);
+}
+.A{
+    background-color: black;
+    color: #f7f7f7;
+    margin-top: 30px;
+}
+.a{
+    background-color: rgb(122, 197, 251);
+    margin-left: 10px;
+    width: 800px;
+    border-radius: 10px 10px 10px  10px;
+}
+.aa{
+    padding: 3px;
+    border-radius: 5px;
+    border: none;
+    margin: 6px;
+    margin-left:40% ; 
+}
+.aaa{
+    padding: 3px;
+    border-radius: 5px;
+    border: none;
+    margin: 6px;
+    margin-left:40px ; 
+}
+.prix {
+    padding: 3px;
+    border-radius: 5px;
+
+    margin: 6px;
+    margin-left:0% ; 
+    
+}
+.prix input{
+    flex: 0;
+    border: none;
+}
+
+
+.A{
+    background-color: black;
+    color: #f7f7f7;
+    margin-top: 30px;
+    
+}
+.b{
+   
+    margin-left: 40%;
+    background-color: chartreuse;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+
+}
+.bb{
+   
+    margin-left: 20px;
+    background-color: chartreuse;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+}
+.car1{
+    width: 300px;
+    border-radius: 120px 120px 100px 100px;
+    margin-top: -500px;
+}
